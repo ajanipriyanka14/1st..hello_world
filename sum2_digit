@@ -1,0 +1,15 @@
+#include <iostream>
+#include<conio.h>
+int main()
+{
+    int num1,num2,sum ;
+    clrscr();
+    cout<<"enter any two digit";
+    cin>>num1>>num2>>;
+    sum=num1+num2;
+    cout<<"sum="<<sum<<endl;
+    getch();
+    return 0;
+}    
+
+    
